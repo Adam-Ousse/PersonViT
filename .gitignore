@@ -1,0 +1,7 @@
+*.pyc
+*.pth
+/transreid_pytorch/TranReID.egg-info
+/transreid_pytorch/test1
+/test_vis
+/test
+/transreid_pytorch/dancetrack0094
